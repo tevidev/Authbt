@@ -11,9 +11,9 @@ from rag import reg_phone
 from bs4 import BeautifulSoup
 from reg import *
 from Braintree import *
-token = '8536433018:AAFgWcpKl0mW3JxoTmsuYn61AajKJrbTOF4'
+token = '7761272869:AAGhj3801EDcu_mIswxMceOEMiLERm_mThg'
 bot = telebot.TeleBot(token, parse_mode="HTML")
-admin = 7237320756
+admin = 7631724758
 stop = {}
 stop_flags = {} 
 stopuser = {}
